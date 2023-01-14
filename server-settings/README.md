@@ -40,14 +40,14 @@ CropGrowthSpeedMultiplier=2.0
 
 ## mod系
 
-Builder’s Improvements 建築系拡張
-Structures Plus 建築系拡張
-Extra Large Storage Box 大容量チェスト
-Dino Tracker 恐竜や他プレイヤーの位置情報を見れるアイテムを追加
-TorchBoost 478736056　松明の明るさUP
-All Dinos Allow Guns 恐竜に乗りながら弓や銃をつかえる
-Egg N Poop Collector / Incubator 卵や糞を自動収集
-Cute Hair (v6.1) 618916953　かつら追加
-Swim Clear Scuba Mask 水中を見やすくするゴーグル追加
-EZTame テイムを簡単にできるアイテムを追加
-Bridge 橋を追加
+- Builder’s Improvements 建築系拡張S
+- tructures Plus 建築系拡張
+- Extra Large Storage Box 大容量チェスト
+- Dino Tracker 恐竜や他プレイヤーの位置情報を見れるアイテムを追加
+- TorchBoost 478736056　松明の明るさUP
+- All Dinos Allow Guns 恐竜に乗りながら弓や銃をつかえる
+- Egg N Poop Collector / Incubator 卵や糞を自動収集
+- Cute Hair (v6.1) 618916953　かつら追加
+- Swim Clear Scuba Mask 水中を見やすくするゴーグル追加
+- EZTame テイムを簡単にできるアイテムを追加
+- Bridge 橋を追加
