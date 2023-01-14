@@ -2,7 +2,7 @@ import json
 
 def run(event, lambda_context):
     print('request: {}'.format(json.dumps(event)))
-n    return {
+    return {
         'statusCode': 200,
         'headers': {
             'Content-Type': 'text/plain'
