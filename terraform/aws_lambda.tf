@@ -11,8 +11,8 @@ resource "aws_lambda_function" "ark-server-bot" {
   lifecycle {
     create_before_destroy = true
     ignore_changes = [
-      # last_modified,
-      # source_code_hash,
+      last_modified,
+      source_code_hash,
       environment
     ]
   }
