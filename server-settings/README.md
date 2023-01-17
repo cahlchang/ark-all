@@ -36,7 +36,7 @@ BabyMatureSpeedMultiplier=50.000000
 BabyImprintingStatScaleMultiplier=3.000000
 BabyCuddleIntervalMultiplier=0.018500
 ### 作物の成長
-CropGrowthSpeedMultiplier=2.0
+CropGrowthSpeedMultiplier=10.0
 
 ## mod系
 
